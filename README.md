@@ -20,18 +20,18 @@ Metagenomic sequencing data:
 
 Identifying differential signatures from multi-cohorts by correcting batch effects.
 
-## 3.Alpha diversity  
+## 3.SNV Calling  
+
+MIDAS was used to perform microbial SNV annotation.  
+The WMS reads were mapped to the database for SNV calling.  
+
+## 4.Alpha diversity  
 
 Calculating alpha diversity of microbiome in CD patients and controls.
 
-## 4.Beta diversity  
+## 5.Beta diversity  
 
 Calculating beta diversity of microbiome in CD patients and controls.
-
-## 5.SNV Calling  
-
-MIDAS was used to perform microbial SNV annotation.  
-The WMS reads were mapped to the database for SNV calling.   
 
 ## 6.Model contruction with FNN  
 
