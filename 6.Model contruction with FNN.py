@@ -45,8 +45,8 @@ class machine_learning:
                   }
         
 
-    def scoring(self,clf, x, y): # 计算模型指标
-        proba = clf.predict(x) # 根据keras作出调整
+    def scoring(self,clf, x, y): 
+        proba = clf.predict(x) 
         pred = np.array([1 if x>0.5 else 0 for x in proba])
         TP = ((pred==1) & (y==1)).sum()
         FP = ((pred==1) & (y==0)).sum()
@@ -100,7 +100,7 @@ class machine_learning:
             scores[k] = [accuracy, precision, recall, f1,sen,spe, auc_score]
             
             fpr, tpr, thresholds = roc_curve(Y_test, proba) # fpr,tpr 
-            tprs.append(np.interp(mean_fpr, fpr, tpr))#插值
+            tprs.append(np.interp(mean_fpr, fpr, tpr))
             tprs[-1][0] = 0.0
             
             plot_lines.append([fpr, tpr, 'ROC Fold %d(AUC = %0.2f)' %(k+1, auc_score)])
