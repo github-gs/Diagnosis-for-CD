@@ -26,17 +26,20 @@ Calculating beta diversity of microbiome in CD patients and controls.
 
 ## 5.SNV Calling  
 
-MIDAS was used to perform microbial SNV annotation. The WMS reads were mapped to the database for SNV calling.   
+MIDAS was used to perform microbial SNV annotation.  
+The WMS reads were mapped to the database for SNV calling.   
 
 ## 6.Model contruction with FNN  
 
 Feedforward neural network (FNN) was employed to construct the diagnostic model:  
 	
-	(1) ten fold cross-validation  
+	(1) Neuron network construction  
 
-	(2) model trainning   
+	(2) Ten fold cross-validation  
 
-	(3) model testing  
+	(3) Model trainning   
+
+	(4) Model testing  
 
 ## 7.Feature evaluation with SHAP  
 
