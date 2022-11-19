@@ -12,7 +12,7 @@ meta.all <- read.csv(file = '../metadata/metadata.csv',stringsAsFactors = FALSE,
 rownames(meta.all) <- meta.all$Run
 meta.all$StudyID <- factor(meta.all$country)
 
-feat.abu <- read.csv("Profile/rela.csv",stringsAsFactors = FALSE, header = TRUE, row.names = 1,
+feat.abu <- read.csv("Profile/abundances.csv",stringsAsFactors = FALSE, header = TRUE, row.names = 1,
                      check.name = FALSE)
 feat.abu <- feat.abu[,rownames(meta.all)]
 

@@ -15,15 +15,14 @@ Metagenomic sequencing data:
 
 	(3) Gene prediction and abundance estimation  
 
-
-## 2.Differential analysis with MMUPHin  
-
-Identifying differential signatures from multi-cohorts by correcting batch effects.
-
-## 3.SNV Calling  
+## 2.SNV Calling  
 
 MIDAS was used to perform microbial SNV annotation.  
 The WMS reads were mapped to the database for SNV calling.  
+
+## 3.Differential analysis with MMUPHin  
+
+Identifying differential signatures from multi-cohorts by correcting batch effects.  
 
 ## 4.Alpha diversity  
 

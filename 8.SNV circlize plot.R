@@ -3,7 +3,6 @@ library(circlize)
 
 pdf('snv.pdf')
 
-
 circos.clear()
 circos.initialize(factors=c("chr1"), 
 xlim=matrix(c(0,max(cov$end)), ncol=2))

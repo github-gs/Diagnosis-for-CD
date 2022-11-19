@@ -1,7 +1,5 @@
 species = input_table
 
-
-
 idx = rowSums(species)>0
 species = na.omit(species[idx,])
 print(paste0("Detected non-zero species are ", dim(species)[1], "."))
