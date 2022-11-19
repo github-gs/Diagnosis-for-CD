@@ -6,7 +6,7 @@
 Our global metagenomic analysis unravels the multi-dimensional alterations of the microbial communities in CD, and identified microbial genes as robust diagnostic biomarkers across cohorts. These genes are functionally related to CD pathology. Future research on these genes may lead to an effective non-invasive diagnostic tool for CD.
 
 
-**Descriptions for scripts**
+### Descriptions for scripts
 
 ### 1.Raw data process  
 
