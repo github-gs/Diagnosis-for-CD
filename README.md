@@ -5,7 +5,7 @@ Microbial genes outperform species and SNVs as diagnostic markers for Crohn’s 
 
 Our global metagenomic analysis unravels the multi-dimensional alterations of the microbial communities in CD, and identified microbial genes as robust diagnostic biomarkers across cohorts. These genes are functionally related to CD pathology. Future research on these genes may lead to an effective non-invasive diagnostic tool for CD.
 
-## 1.Raw_data_process  
+## 1.Raw data process  
 
 Metagenomic sequencing data:  
 
@@ -16,7 +16,7 @@ Metagenomic sequencing data:
 	(3) Gene prediction and abundance estimation  
 
 
-## 2.Differential_analysis_MMUPHin  
+## 2.Differential analysis with MMUPHin  
 
 Identifying differential signatures from multi-cohorts by correcting batch effects.
 
