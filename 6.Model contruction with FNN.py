@@ -174,7 +174,7 @@ class ANN():
                 ly = layers.Dense(neuron_num, activation='relu',kernel_initializer=self.initializer)
                 self.model.add(ly)
 #                 self.model.add(layers.Dropout(0.2))
-            else: #输出层
+            else: 
                 self.model.add(output_ly)
                 
         
