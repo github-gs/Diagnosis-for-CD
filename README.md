@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Python-3.8-brightgreen) ![](https://img.shields.io/badge/Version-dev-yellowgreen) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github-gs/Diagnosis-for-CD/HEAD) ![](https://img.shields.io/badge/lisense-MIT-orange) [![](https://img.shields.io/badge/Website-CADD-blue)](https://cadd.tongji.edu.cn/)
+![](https://img.shields.io/badge/Python-3.8-brightgreen) ![](https://img.shields.io/badge/R-4.1.2-lightgrey) ![](https://img.shields.io/badge/Version-dev-yellowgreen) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github-gs/Diagnosis-for-CD/HEAD) ![](https://img.shields.io/badge/lisense-MIT-orange) [![](https://img.shields.io/badge/Website-CADD-blue)](https://cadd.tongji.edu.cn/)
 
 # Diagnosis-for-CD
 Microbial genes outperform species and SNVs as diagnostic markers for Crohn’s disease according to artificial intelligence analyses of multicohort fecal metagenomes  
