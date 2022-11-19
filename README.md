@@ -1,7 +1,9 @@
-![](https://img.shields.io/badge/Python-3.8-brightgreen) ![](https://img.shields.io/badge/Version-dev-yellowgreen) ![](https://img.shields.io/badge/lisense-MIT-orange) [![](https://img.shields.io/badge/Website-CADD-blue)](https://cadd.tongji.edu.cn/)
+![](https://img.shields.io/badge/Python-3.8-brightgreen) ![](https://img.shields.io/badge/Version-dev-yellowgreen) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github-gs/Diagnosis-for-CD/HEAD) ![](https://img.shields.io/badge/lisense-MIT-orange) [![](https://img.shields.io/badge/Website-CADD-blue)](https://cadd.tongji.edu.cn/)
 
 # Diagnosis-for-CD
-Microbial genes outperform species and SNVs as diagnostic markers for Crohn’s disease according to artificial intelligence analyses of multicohort fecal metagenomes
+Microbial genes outperform species and SNVs as diagnostic markers for Crohn’s disease according to artificial intelligence analyses of multicohort fecal metagenomes  
+
+Our global metagenomic analysis unravels the multi-dimensional alterations of the microbial communities in CD, and identified microbial genes as robust diagnostic biomarkers across cohorts. These genes are functionally related to CD pathology. Future research on these genes may lead to an effective non-invasive diagnostic tool for CD.
 
 ## 1.Raw_data_process  
 
